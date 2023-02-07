@@ -29,7 +29,7 @@ Continuando com aprendizado e treinamento do uso de HTML e CSS, mais um projeto 
 <br>
 
 <br>
-🧑‍🚀❤️‍🔥
+
 
 ## 🚀 Tecnologias
 
@@ -42,9 +42,9 @@ Esse projeto está sendo desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Dentro dos assuntos do vídeo, o instrutor Isaac fala também de temas como Mobile-First; Responsividade; HTML semântico; Flexbox e Grid.
+Dentro dos assuntos do vídeo, o instrutor Isaac fala também de temas como Mobile-First, Responsividade, HTML semântico, Flexbox e Grid.
 
-[Visite o projeto online](https://robertojunnior.github.io/jazz-school/)
+[Visite o projeto online](https://robertojunnior.github.io/jazz-school/)🧑‍🚀
 
 🖼️ Para acessar o vídeo do Projeto no YouTube bssta <a href="https://youtu.be/Wo7UnH8TYbc">clicar aqui</a>.
 
