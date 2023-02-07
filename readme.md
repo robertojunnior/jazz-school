@@ -21,7 +21,7 @@ Continuando com aprendizado e treinamento do uso de HTML e CSS, mais um projeto 
 
   <div align="center">
     <a target="_blank" href="https://robertojunnior.github.io/jazz-school/">
-    <img width="800px" src="./imagens/mockup-jazz-school.png" alt="projeto">
+    <img width="800px" src="./img/mockup-jazz-school.png" alt="projeto">
     </a>
   </div>
 
