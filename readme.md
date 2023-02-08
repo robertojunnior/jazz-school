@@ -21,7 +21,7 @@ Continuando com aprendizado e treinamento do uso de HTML e CSS, mais um projeto 
 
   <div align="center">
     <a target="_blank" href="https://robertojunnior.github.io/jazz-school/">
-    <img width="800px" src="./imagens/mockup-jazz-school.png" alt="projeto">
+    <img width="800px" src="./img/mockup-jazz-school.png" alt="projeto">
     </a>
   </div>
 
@@ -29,7 +29,7 @@ Continuando com aprendizado e treinamento do uso de HTML e CSS, mais um projeto 
 <br>
 
 <br>
-🧑‍🚀❤️‍🔥
+
 
 ## 🚀 Tecnologias
 
@@ -42,9 +42,9 @@ Esse projeto está sendo desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Dentro dos assuntos do vídeo, o instrutor Isaac fala também de temas como Mobile-First; Responsividade; HTML semântico; Flexbox e Grid.
+Dentro dos assuntos do vídeo, o instrutor Isaac fala também de temas como Mobile-First, Responsividade, HTML semântico, Flexbox e Grid.
 
-[Visite o projeto online](https://robertojunnior.github.io/jazz-school/)
+[Visite o projeto online](https://robertojunnior.github.io/jazz-school/)🧑‍🚀
 
 🖼️ Para acessar o vídeo do Projeto no YouTube bssta <a href="https://youtu.be/Wo7UnH8TYbc">clicar aqui</a>.
 
