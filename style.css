@@ -13,6 +13,10 @@
 }
 
 body {
+    background: linear-gradient(90deg, #ffE7D1 0%, #FFF2E6 100%);
     padding: 0 1rem;
 }
 
+span {
+    color: var(--color-primrary);
+}
