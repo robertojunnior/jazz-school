@@ -48,7 +48,7 @@ Dentro dos assuntos do vídeo, o instrutor Isaac fala também de temas como Mobi
 
 🖼️ Para acessar o vídeo do Projeto no YouTube bssta <a href="https://youtu.be/Wo7UnH8TYbc">clicar aqui</a>.
 
-## Layout
+🔖 Layout
 
 Para acessar o Layout do projeto, você precisa ter uma conta no FIGMA.
 Para visualizar basta <a href="https://www.figma.com/file/nTOrB74eEDCQd2y7nOR6Se/Tom's-Jazz-School?node-id=23%3A4327&t=YF4hMccfs0RxNYcQ-1">clicar aqui</a>. 
