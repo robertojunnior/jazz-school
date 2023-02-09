@@ -27,9 +27,7 @@ Continuando com aprendizado e treinamento do uso de HTML e CSS, mais um projeto 
 
 <br>
 <br>
-
 <br>
-
 
 ## 🚀 Tecnologias
 
@@ -64,7 +62,4 @@ Feito com ♥ by Roberto Junior 😁:wave:
 <br>🧑‍🚀[Inscreva-se no canal do YouTube da ONE BIT CODE!](https://www.youtube.com/@OneBitCode)
 
     
-<h4> Obrigado por visitar meu Git e se chegou até aqui dê um "FOLLOW" que retribuo, quem sabe não podemos colaborar em algum projeto juntos?
-  <br>
-  <br>
-<p> Até a próxima! 😁🖖.
+<h4> Obrigado por visitar meu Git e se chegou até aqui dê um "FOLLOW" que retribuo, quem sabe não podemos colaborar em algum projeto juntos? Até a próxima! 😁🖖.
