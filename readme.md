@@ -2,7 +2,7 @@
 <h1 align="center"> TOM'S SCHOOL JAZZ </h1>
 
 <p align="center">
-Continuando com aprendizado e treinamento do uso de HTML e CSS, mais um projeto disponibilizado gratuitamente pela <a href="#">"ONE BIT CODE"</a> com o instrutor ISAAC. <br/>
+Continuando com aprendizado e treinamento do uso de HTML e CSS, segue mais um projeto em desenvolvimento disponibilizado gratuitamente pela <a href="#">"ONE BIT CODE"</a> com o instrutor ISAAC. <br/>
 </p>
 
 <p align="center">
