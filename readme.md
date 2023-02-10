@@ -27,9 +27,7 @@ Continuando com aprendizado e treinamento do uso de HTML e CSS, mais um projeto 
 
 <br>
 <br>
-
 <br>
-
 
 ## 🚀 Tecnologias
 
@@ -48,7 +46,7 @@ Dentro dos assuntos do vídeo, o instrutor Isaac fala também de temas como Mobi
 
 🖼️ Para acessar o vídeo do Projeto no YouTube bssta <a href="https://youtu.be/Wo7UnH8TYbc">clicar aqui</a>.
 
-## Layout
+## 🔖 Layout
 
 Para acessar o Layout do projeto, você precisa ter uma conta no FIGMA.
 Para visualizar basta <a href="https://www.figma.com/file/nTOrB74eEDCQd2y7nOR6Se/Tom's-Jazz-School?node-id=23%3A4327&t=YF4hMccfs0RxNYcQ-1">clicar aqui</a>. 
@@ -64,7 +62,4 @@ Feito com ♥ by Roberto Junior 😁:wave:
 <br>🧑‍🚀[Inscreva-se no canal do YouTube da ONE BIT CODE!](https://www.youtube.com/@OneBitCode)
 
     
-<h4> Obrigado por visitar meu Git e se chegou até aqui dê um "FOLLOW" que retribuo, quem sabe não podemos colaborar em algum projeto juntos?
-  <br>
-  <br>
-<p> Até a próxima! 😁🖖.
+<h4> Obrigado por visitar meu Git e se chegou até aqui dê um "FOLLOW" que retribuo, quem sabe não podemos colaborar em algum projeto juntos? Até a próxima! 😁🖖.
