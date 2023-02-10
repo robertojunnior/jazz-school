@@ -8,7 +8,7 @@
 :root {
     --color-primrary: #ED4D1B;
     --color-secondary: #FF9A3C;
-    -color-black: #000;
+    --color-black: #000;
     --color-white: #fff;
 }
 
@@ -17,6 +17,109 @@ body {
     padding: 0 1rem;
 }
 
+header, .hero-section, .course-section {
+    border: 1px solid #000;
+    border-top: none;
+    padding: 1.25rem;
+}
+
+header img {
+    display: block;
+    margin: 1rem auto;
+}
+
+header nav {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+nav a {
+    color: #000;
+    font-size: 1.25rem;
+    padding: .5rem;
+    text-decoration: none;
+}
+
+header nav a:nth-child(2n-1) {
+    text-align: right;
+}
+
+.button {
+    color: var(--color-black);
+    background-color: var(--color-primrary);
+    border: 2px solid var(--color-black);
+    box-shadow: 4px 4px var(--color-black);
+    display: block;
+    padding: 0.75rem 1rem;
+    max-width: 14rem;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+
+    margin: 1rem auto;
+}
+
+.hero-section {
+    padding-right: 0;
+    padding-bottom: 16rem;
+}
+
+.hero-section img {
+    display: block;
+    max-width: 100%;
+    margin: 20px 0 0 auto;
+}
+
+h1 {
+    font-size: 3rem;
+    line-height: 105%;
+    margin-top: 1.25rem;
+}
+
 span {
     color: var(--color-primrary);
+}
+
+h2 {
+    font-size: 2.5rem;
+}
+
+.hero-section p {
+    font-size: 1.25rem;
+    margin: 2rem 0 2rem;
+    padding-right: 1.25rem;
+}
+
+.hero-section .button {
+    position: relative;
+}
+
+.hero-section .button::after {
+    content: '';
+    background: url("img/arrow-curve.svg");
+    position: absolute;
+    top: 5rem;
+    right: -3rem;
+    height: 48px;
+    width: 132px;
+}
+
+.decoration {
+    display: block;
+    position: relative;
+}
+
+.decoration::after {
+    content: '';
+    background: url(img/three-dashes.svg);
+    position: absolute;
+    top: -0.75rem;
+    height: 40px;
+    width: 40px;
+
+}
+
+
+footer {
+    padding: 1.5rem;
 }
