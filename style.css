@@ -5,6 +5,8 @@
     font-family: 'Roboto', sans-serif;
 }
 
+/* Mobile First */
+
 :root {
     --color-primrary: #ED4D1B;
     --color-secondary: #FF9A3C;
@@ -55,9 +57,14 @@ header nav a:nth-child(2n-1) {
     text-align: center;
     text-decoration: none;
     text-transform: uppercase;
+    margin-top: 1rem;
+}
 
+.button.inscreva {
     margin: 1rem auto;
 }
+
+
 
 .hero-section {
     padding-right: 0;
@@ -158,6 +165,10 @@ h2 {
 h2 {
     text-align: center;
     margin-bottom: 2rem;
+}
+
+.button.conhecer {
+    margin: 1rem auto;
 }
 
 footer {

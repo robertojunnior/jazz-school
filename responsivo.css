@@ -27,6 +27,9 @@
 }
 
 @media screen and (min-width: 72rem) {
+    h1, h2 {
+        font-size: 4rem;
+    }
     .container {
         display: flex;
         align-items: center;
@@ -54,5 +57,11 @@
 
     .newsletter {
         flex: 3;
+    }
+}
+
+@media screen and (min-width: 90rem) {
+    .container {
+        max-width: 80rem;
     }
 }
