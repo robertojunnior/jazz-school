@@ -17,7 +17,7 @@ body {
     padding: 0 1rem;
 }
 
-header, .hero-section, .course-section {
+header, .hero-section, .course-section, footer {
     border: 1px solid #000;
     border-top: none;
     padding: 1.25rem;
@@ -116,10 +116,75 @@ h2 {
     top: -0.75rem;
     height: 40px;
     width: 40px;
-
 }
 
+.course-section {
+    padding-bottom: 8rem;
+}
+
+.cards {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    margin: -8rem 0rem 4rem;
+    gap: 1.25rem;
+}
+
+.card {
+    background-color: var(--color-primrary);
+    border: 2px solid var(--color-black);
+    box-shadow: 4px 4px var(--color-black);
+    max-width: 17rem;
+    padding: 2rem 2rem 0 2rem;
+}
+
+.card:nth-child(2n) {
+    align-self: end;
+    background-color: var(--color-secondary);
+}
+
+.card strong {
+    display: block;
+    font-size: 1.5rem;
+    margin: 1rem 0;
+}
+
+.card a {
+    display: block;
+    margin: 3rem 0 0 auto;
+    width: fit-content;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 2rem;
+}
 
 footer {
-    padding: 1.5rem;
+    border-bottom: none;
+    padding: 1rem 1.25rem 4rem;
 }
+
+footer p {
+    margin: 1rem 0;
+}
+
+footer nav a {
+    display: block;
+    padding-left: 0;
+}
+
+.newsletter label {
+    display: block;
+    font-size: 1.5rem;
+    margin: 1rem 0;
+}
+
+.newsletter input {
+    border: 2px solid var(--color-black);
+    box-shadow: 4px 4px var(--color-black);
+    padding: 0.5rem;
+    font-size: 1.5rem;
+    width: 100%;
+}
+

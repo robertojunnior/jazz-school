@@ -1,0 +1,58 @@
+/* Responsividade Desktop*/
+
+@media screen and (min-width: 40rem) {
+    header nav {
+    display: block;
+    text-align: center;
+    }
+    
+    .cards {
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .card:nth-child(2n) {
+        margin-top: 2rem;
+    }
+
+}
+
+@media screen and (min-width: 48rem) {
+    header div {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+}
+
+@media screen and (min-width: 72rem) {
+    .container {
+        display: flex;
+        align-items: center;
+        margin: 0 auto;
+        max-width: 72rem;
+    }
+
+    .container.row-reverse {
+        flex-direction: row-reverse;
+    }
+
+    .about-column {
+        flex: 2;
+    }
+
+    .about-column p {
+        max-width: 16rem;
+        font-size: 1.25rem;
+    }
+
+
+    footer nav {
+        flex: 1;
+    }
+
+    .newsletter {
+        flex: 3;
+    }
+}

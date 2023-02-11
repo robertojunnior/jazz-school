@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="responsivo.css">
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -13,8 +14,8 @@
     <title>School Jazz</title>
 </head>
 <body>
-    <main>
-        <header>
+    <header>
+        <div>
             <img src="./img/logo.svg" alt="logo">
             <nav>
                 <a href="#">Início</a>
@@ -23,19 +24,23 @@
                 <a href="#">Contato</a>
             </nav>
             <a class="button" href="#">Inscreva-se</a>
-        </header>
+        </div>
+    </header>
+    <main>
         <section class="hero-section">
-            <img src="./img/hero-img.svg" alt="banda">
-            <div>
-                <h1>Crie algo <span class="decoration">impactante</span> com música</h1>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus vero delectus placeat neque aliquid? Nesciunt rerum amet maxime libero.</p>
-                <a class="button" href="#">Comece agora</a>
+            <div class="container row-reverse">
+                <img src="./img/hero-img.svg" alt="banda">
+                <div>
+                    <h1>Crie algo <span class="decoration">impactante</span> com música</h1>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus vero delectus placeat neque aliquid? Nesciunt rerum amet maxime libero.</p>
+                    <a class="button" href="#">Comece agora</a>
+                </div>
             </div>
         </section>
 
         <section class="course-section">
             <div class="cards">
-                <article class="orange-card">
+                <article class="card">
                     <img src="./img/piano.png" alt="icone-piano">
                     <strong>Piano popular</strong>
                     <p>Lorem ipsum dolor sit amet, consectur adipiscing elit, dolore magna aliqua.</p>
@@ -43,7 +48,7 @@
                         <img src="./img/arrow-right.svg" alt="ir para pagina do curso">
                     </a>
                 </article>
-                <article>
+                <article class="card">
                     <img src="./img/clef.png" alt="icone-clave-de-sol">
                     <strong>Teoria musical</strong>
                     <p>Lorem ipsum dolor sit amet, consectur adipiscing elit, dolore magna aliqua.</p>
@@ -51,7 +56,7 @@
                         <img src="./img/arrow-right.svg" alt="ir para pagina do curso">
                     </a>
                 </article>
-                <article class="orange-card">
+                <article class="card">
                     <img src="./img/sax.png" alt="icone-saxofone">
                     <strong>Sax alto</strong>
                     <p>Lorem ipsum dolor sit amet, consectur adipiscing elit, dolore magna aliqua.</p>
@@ -59,7 +64,7 @@
                         <img src="./img/arrow-right.svg" alt="ir para pagina do curso">
                     </a>
                 </article>
-                <article>
+                <article class="card">
                     <img src="./img/drums.png" alt="icone-bateria">
                     <strong>Piano popular</strong>
                     <p>Lorem ipsum dolor sit amet, consectur adipiscing elit, dolore magna aliqua.</p>
@@ -74,22 +79,23 @@
     </main>
 
     <footer>
-        <div>
-            <img src="./img/logo.svg" alt="logo">
-            <p>Lorem ipsum dolor sit amet, consectur adipiscing elit, dolore magna aliqua.</p>
+        <div class="container">
+            <div class="about-column">
+                <img src="./img/logo.svg" alt="logo">
+                <p>Lorem ipsum dolor sit amet, consectur adipiscing elit, dolore magna aliqua.</p>
+            </div>
+            <nav>
+                <a href="#">Início</a>
+                <a href="#">Cursos</a>
+                <a href="#">Eventos</a>
+                <a href="#">Contato</a>
+            </nav>
+            <form class="newsletter">
+                <label for="email">Receba materiais gratuitos em seu e-mail.</label>
+                <input type="text" name="e-mail" id="e-mail" placeholder="Digite seu e-mail">
+                <a class="button">Quero receber</a>
+            </form>
         </div>
-
-        <nav>
-            <a href="#">Início</a>
-            <a href="#">Cursos</a>
-            <a href="#">Eventos</a>
-            <a href="#">Contato</a>
-        </nav>
-
-        <form action="">
-            <label for="email">Receba materiais gratuitos em seu e-mail.</label>
-            <input type="text" name="e-mail" id="e-mail" placeholder="Digite seu e-mail">
-        </form>
     </footer>
 </body>
 </html>
