@@ -29,6 +29,7 @@ Continuando com aprendizado e treinamento do uso de HTML e CSS, segue mais um pr
 <br>
 <br>
 
+
 ## 🚀 Tecnologias
 
 Esse projeto está sendo desenvolvido com as seguintes tecnologias:
