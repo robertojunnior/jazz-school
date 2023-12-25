@@ -21,7 +21,7 @@ Continuando com aprendizado e treinamento do uso de HTML e CSS, segue mais um pr
 
   <div align="center">
     <a target="_blank" href="https://robertojunnior.github.io/jazz-school/">
-    <img width="800px" src="./img/mockup-jazz-school.png" alt="projeto">
+    <img width="800px" src="./img/mockup-entrega.png" alt="projeto">
     </a>
   </div>
 
